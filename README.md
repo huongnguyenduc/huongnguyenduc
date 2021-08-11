@@ -27,7 +27,7 @@
 - Mobile: **`Flutter`**
 - Front-End:  **`HTML5`** **`CSS`** **`Javascript`** **`ReactJS-Redux`**
 - Database: **`MSSQL`**
-- Others: **`Heroku`** **`Adobe XD`**
+- Others: **`Heroku`** **`Adobe XD`** **`Figma`**
 
 
 ---
