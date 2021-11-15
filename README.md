@@ -2,12 +2,13 @@
 
 
 [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:duchuong007@gmail.com)
+[![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://linkedin.com/in/duchuong007)](https://www.linkedin.com/in/duchuong007/)
 [![GitHub](https://img.shields.io/twitter/url?label=Visualize&logo=github&url=https://github.com/huongnguyenduc)](https://github.com/huongnguyenduc)
 
 
 
 - 👨‍🎓 I’m currently a `Software Engineering` student at [University Of Information Technology](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
-- 💻 I have `2 years` study and practice in `Software Development`
+- 💻 I have `2.5 years` study and practice in `Software Development`
 - 🌱 I love learning about Science and Technology
 - 💬 Ask me about anything, I am happy to help
 
@@ -28,7 +29,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 - Mobile: **`Flutter`**
-- Front-End:  **`HTML5`** **`CSS`** **`Javascript`** **`ReactJS-Redux`**
+- Front-End:  **`HTML5`** **`CSS`** **`Javascript`** **`ReactJS-Redux`** **`Ant Design`** **`DvaJs`** **`UmiJS`**
 - Back-End: **`NodeJS`** **`Express`** 
 - Database: **`MSSQL`** **`MongoDB`**
 - Others: **`Heroku`** **`Adobe XD`** **`Figma`**
