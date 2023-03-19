@@ -5,9 +5,10 @@
 [![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://linkedin.com/in/duchuong007)](https://www.linkedin.com/in/duchuong007/)
 [![GitHub](https://img.shields.io/twitter/url?label=Visualize&logo=github&url=https://github.com/huongnguyenduc)](https://github.com/huongnguyenduc)
 
-<div float="left">
+<p float="left">
 
-<div>
+<p>
+    
 - 👨‍🎓 I’m currently a `Software Engineering` student at [University Of Information Technology](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
     
 - 💻 I have `3 years` study and practice in `Software Development`
@@ -16,9 +17,9 @@
     
 - 💬 Ask me about anything, I am happy to help
     
-</div>
+</p>
     <a href="https://app.daily.dev/duchuong007"><img src="https://api.daily.dev/devcards/d6c6daa15d3a4757a7473528db642b17.png?r=5jo" width="400" alt="Nguyễn Đức Hướng's Dev Card"/></a>
-</div>
+</p>
 
 
 
