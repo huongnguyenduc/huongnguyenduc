@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://linkedin.com/in/duchuong007)](https://www.linkedin.com/in/duchuong007/)
 [![GitHub](https://img.shields.io/twitter/url?label=Visualize&logo=github&url=https://github.com/huongnguyenduc)](https://github.com/huongnguyenduc)
 
-<p float="left">
+<p style="display: flex; flex-direction: row;">
 
 <p>
     
@@ -18,7 +18,7 @@
 - 💬 Ask me about anything, I am happy to help
     
 </p>
-    <a href="https://app.daily.dev/duchuong007"><img src="https://api.daily.dev/devcards/d6c6daa15d3a4757a7473528db642b17.png?r=5jo" width="400" alt="Nguyễn Đức Hướng's Dev Card"/></a>
+    <a href="https://app.daily.dev/duchuong007"><img src="https://api.daily.dev/devcards/d6c6daa15d3a4757a7473528db642b17.png?r=5jo" width="300" alt="Nguyễn Đức Hướng's Dev Card"/></a>
 </p>
 
 
