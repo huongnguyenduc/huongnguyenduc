@@ -9,9 +9,9 @@
 
 <p>
     
-- 👨‍🎓 I’m currently a `Software Engineering` student at [University Of Information Technology](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
+- 👨‍🎓 I’m currently a fresh graduate `Software Engineering` student at [University Of Information Technology](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
     
-- 💻 I have `3 years` study and practice in `Software Development`
+- 💻 I have `4 years` of study and practice in `Software Development`
     
 - 🌱 I love learning about Science and Technology
     
@@ -38,7 +38,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 - Mobile: **`Flutter`**
-- Front-End:  **`HTML5`** **`CSS`** **`Javascript`** **`ReactJS-Redux`** **`NextJs`** **`Ant Design`** **`TailwindCSS`** **`DvaJs`** **`UmiJS`** 
+- Front-End:  **`HTML5`** **`CSS3`** **`Javascript`** **`ReactJS-Redux`** **`NextJs`** **`Ant Design`** **`TailwindCSS`** **`DvaJs`** **`UmiJS`** 
 - Back-End: **`NodeJS`** **`Express`** 
 - Database: **`MSSQL`** **`MongoDB`**
 - Others: **`Figma`** **`Vim`**
