@@ -11,7 +11,7 @@
     
 - 👨‍🎓 I’m currently a fresh graduate `Software Engineering` student at [University Of Information Technology](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
     
-- 💻 I have `4 years` of study and practice in `Software Development`
+- 💻 I have `4 years` of studying and practicing in `Software Development`
     
 - 🌱 I love learning about Science and Technology
     
