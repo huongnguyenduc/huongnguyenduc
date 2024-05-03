@@ -18,7 +18,7 @@
 - 💬 Ask me about anything, I am happy to help
     
 </p>
-    <a href="https://app.daily.dev/duchuong007"><img src="https://api.daily.dev/devcards/d6c6daa15d3a4757a7473528db642b17.png?r=5jo" width="250" alt="Nguyễn Đức Hướng's Dev Card"/></a>
+    <a href="https://app.daily.dev/duchuong007"><img src="https://api.daily.dev/devcards/v2/JY5ve07qE5cAEnz3hyhNR.png?r=yk3&type=default" width="356" alt="Nguyễn Đức Hướng's Dev Card"/></a>
 </div>
 
 
